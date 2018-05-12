@@ -1,0 +1,30 @@
+_repo: Reading-the-Weather_39466
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39466-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Longstreth, Thomas Morris
+    aliases:
+    - Longstret, T. Morris
+    - Longstreth, Morris
+    - Longstreth, T. Morris (Thomas Morris)
+    birthdate: 1886
+    gutenberg_agent_id: '40034'
+    url: http://www.gutenberg.org/2009/agents/40034
+description: ''
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39466'
+  lccn: '15022983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weather forecasting'
+- !lcc 'QC'
+title: Reading the Weather
+url: http://www.gutenberg.org/ebooks/39466
